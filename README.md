@@ -10,7 +10,11 @@
 - 🌱 I’m currently learning **BOOTSTRAP, CSS, HTML, JAVASCRIPT, python ...**
 
 - 📫 How to reach me **youssefefkiren@gmail.com**
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
 
+You can see my solution here: https://www.frontendmentor.io/solutions/social-links-profile-main-xKnl-WXdTU
+
+Any suggestions on how I can improve are welcome!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
