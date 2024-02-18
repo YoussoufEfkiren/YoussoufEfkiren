@@ -13,7 +13,7 @@
 - 
 -I've just completed a few front-end coding challenges from @frontendmentor! 🎉
 
--You can see my solution here: https://www.frontendmentor.io/profile/YoussoufEfkiren
+-You can see my solutions here: https://www.frontendmentor.io/profile/YoussoufEfkiren
 Any suggestions on how I can improve are welcome!
 
 <h3 align="left">Connect with me:</h3>
