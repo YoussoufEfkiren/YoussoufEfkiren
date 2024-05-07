@@ -1,30 +1,31 @@
-<h1 align="center">Hi 👋, I'm Youssouf Efkiren</h1>
-<h3 align="center">A web developer from MOROCCO</h3>
+# Hi there! 👋 I'm Youssouf Efkiren
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssoufefkiren&label=Profile%20views&color=0e75b6&style=flat" alt="youssoufefkiren" /> </p>
+## 🌍 About Me
+I'm a passionate web developer from Morocco, always excited to learn and explore new technologies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssoufefkiren" alt="youssoufefkiren" /></a> </p>
+- 🔭 I’m currently working on improving my skills in **Bootstrap, CSS, HTML, JavaScript, Python...**
+- 📚 I’m currently learning and growing my expertise in web development.
+- 🎉 I've just completed a few front-end coding challenges from @frontendmentor! You can check out my solutions [here](https://www.frontendmentor.io/profile/YoussoufEfkiren). Any feedback is appreciated!
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 📫 How to Reach Me
+Feel free to drop me an email at youssefefkiren@gmail.com.
 
-- 🌱 I’m currently learning **BOOTSTRAP, CSS, HTML, JAVASCRIPT, python ...**
+## 🤝 Connect with Me
+[![Twitter Follow](https://img.shields.io/twitter/follow/youssoufefkiren?style=social)](https://twitter.com/youssoufefkiren)
 
-- 📫 How to reach me **youssefefkiren@gmail.com**
-- 
--I've just completed a few front-end coding challenges from @frontendmentor! 🎉
+## 💻 Languages and Tools
+I work with:
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Python
+- React
+- MySQL
+- Adobe Illustrator
+- Adobe Photoshop
 
--You can see my solutions here: https://www.frontendmentor.io/profile/YoussoufEfkiren
-Any suggestions on how I can improve are welcome!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssoufefkiren&show_icons=true&locale=en&layout=compact" alt="youssoufefkiren" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssoufefkiren&show_icons=true&locale=en" alt="youssoufefkiren" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssoufefkiren&" alt="youssoufefkiren" /></p>
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssoufefkiren&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssoufefkiren&show_icons=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssoufefkiren)
