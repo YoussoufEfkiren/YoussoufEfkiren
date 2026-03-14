@@ -1,30 +1,99 @@
- <h1 align="center">Hi 👋, I'm Youssouf Efkiren</h1>
-<h3 align="center">A web developer from MOROCCO</h3>
+<h1 align="center">Hi 👋, I'm Youssouf Efkiren</h1>
+<h3 align="center">Full-Stack Web Developer | React • Laravel • PHP • MySQL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssoufefkiren&label=Profile%20views&color=0e75b6&style=flat" alt="youssoufefkiren" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssoufefkiren" alt="youssoufefkiren" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **BOOTSTRAP, CSS, HTML, JAVASCRIPT, python ...**
-
-- 📫 How to reach me **youssefefkiren@gmail.com**
-- 
--I've just completed a few front-end coding challenges from @frontendmentor! 🎉
-
--You can see my solutions here: https://www.frontendmentor.io/profile/YoussoufEfkiren
-Any suggestions on how I can improve are welcome!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Passionate about building modern web applications, APIs, and management systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=youssoufefkiren&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssoufefkiren&show_icons=true&locale=en&layout=compact" alt="youssoufefkiren" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssoufefkiren&show_icons=true&locale=en" alt="youssoufefkiren" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssoufefkiren&" alt="youssoufefkiren" /></p>
+- 💻 Full-Stack Web Developer from **Morocco**
+- ⚙️ I build **web applications, APIs, and management systems**
+- 🧠 Currently improving my skills in **Laravel, React, and modern web architecture**
+- 📊 Interested in **Stock Management Systems, Business Applications, and Automation**
+- 🚀 Always learning and building new projects
+
+---
+
+## 🚀 Current Focus
+
+- Building **full-stack applications with Laravel + React**
+- Developing **inventory and management systems**
+- Improving **backend architecture and API development**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
+
+### Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
+
+### Database
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+### Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="mailto:youssefefkiren@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.frontendmentor.io/profile/YoussoufEfkiren">
+<img src="https://img.shields.io/badge/FrontendMentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
+</a>
+
+<a href="https://github.com/youssoufefkiren">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=youssoufefkiren&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssoufefkiren&layout=compact"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssoufefkiren"/>
+</p>
+
+---
+
+⭐️ From [Youssouf Efkiren](https://github.com/youssoufefkiren)
