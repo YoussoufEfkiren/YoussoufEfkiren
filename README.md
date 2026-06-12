@@ -224,15 +224,8 @@ Worked within a 3-developer Agile team to design and build a full-stack inventor
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/YoussoufEfkiren/YoussoufEfkiren/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
